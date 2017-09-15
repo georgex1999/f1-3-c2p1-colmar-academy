@@ -1,0 +1,19 @@
+html {
+  font-family: "Roboto", sans-serif;
+  font-size: 16px;
+}
+
+header {
+  height: 64px;
+  padding: 24px;
+}
+
+nav.mobile {
+  display:none;
+}
+
+#intro-first {
+  background-color: gray;
+  height:200px;
+  width:
+}
